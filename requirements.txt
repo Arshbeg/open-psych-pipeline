@@ -1,0 +1,4 @@
+Pandas
+Numpy
+neurokit2
+matplotlib
