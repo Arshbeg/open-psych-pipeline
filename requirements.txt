@@ -1,4 +1,6 @@
-Pandas
-Numpy
+pandas
+numpy
 neurokit2
 matplotlib
+streamlit
+seaborn
