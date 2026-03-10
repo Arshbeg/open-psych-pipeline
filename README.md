@@ -64,6 +64,9 @@ In the generated `processed_data.csv`, several Heart Rate Variability (HRV) colu
 * This phase focuses on the valorization of the research findings.
 * A fully interactive Streamlit dashboard designed for non-technical researchers and stakeholders.
 * Features dynamic participant selection, raw waveform inspection, and global statistical visualizations.
+#### 📸 Dashboard Preview
+<img src="images/Screenshot 2026-03-10 142025.png" alt="App Demo" width="600">
+<img src="images/Screenshot 2026-03-10 142054.png" alt="App Demo" width="600">
 
 ## 🚀 Reproducibility & Deployment
 To guarantee that this pipeline runs consistently, the environment has been fully containerized using Docker, integrating both the Python runtime and R tools.
